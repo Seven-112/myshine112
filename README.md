@@ -42,17 +42,3 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-### Github Stats
-
-<br/>
-<a href="https://github.com/cryptodev1990"><img alt="cryptodev1990's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cryptodev1990&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/cryptodev1990"><img alt="cryptodev1990's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptodev1990&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<br/>
-<br/>
-<hr>
-</p>
