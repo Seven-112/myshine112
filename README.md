@@ -1,20 +1,17 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">You are my SUNSHINE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :technologist: &nbsp;About Me :
 
-I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   familiar with wide range of programming utilities and languages. 
-Knowledgeable of backend and frontend development requirements.
-Handles any part of process with ease.
-Collaborative team player with excellent technical abilities offering 7 years of related experience. 
+I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8+ years full stack, Blockchain experience specializing in React, React Native, Node, Spring Boot, .NET, Web3.js, Smart Contract, Ethereum. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. Communicated with other teams and senior management to adapt 50+ clients’ websites to adapt to changing industry standards. Built a large scale front-end code base by using React hooks to build complex components such as a virtualized list, combined strict types, functional-style code and Jest unit tests along with back-end development. Developed 20+ dapps for different industry customers like Game, Insurance, Supply chain, Fintech, Ecommerce.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 Front-end dev && Back-end dev && Blockchain
+- 🌱 Enjoy solving issues and sharing POV
+- ⚡ Always keeps up-to-date with new technology
 ---
 
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
