@@ -7,9 +7,9 @@
 
 ### :technologist: &nbsp;About Me :
 
-I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8+ years full stack, Blockchain experience specializing in React, React Native, Node, Spring Boot, .NET, Web3.js, Smart Contract, Ethereum. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. Communicated with other teams and senior management to adapt 50+ clients’ websites to adapt to changing industry standards. Built a large scale front-end code base by using React hooks to build complex components such as a virtualized list, combined strict types, functional-style code and Jest unit tests along with back-end development. Developed 20+ dapps for different industry customers like Game, Insurance, Supply chain, Fintech, Ecommerce.
+I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8 years of web & mobile, full stack, Blockchain experience specializing in React/Next.js, Vue.js, React Native/Flutter, Node.js/Nest.js, Spring Boot/RubyonRails/Django/.NET, Web3.js, Smart Contract, Ethereum. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. 
 
-- 🔭 Front-end dev && Back-end dev && Blockchain
+- 🔭 Full-stack dev && Web & Mobile dev && Blockchain
 - 🌱 Enjoy solving issues and sharing POV
 - ⚡ Always keeps up-to-date with new technology
 ---
@@ -21,7 +21,7 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
     <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
     <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-     <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
     <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
     <a href="https://www.qt.io/" target="_blank">
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
