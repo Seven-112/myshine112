@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <h1 align="center">HELLO my $UN$HINE<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h1 align="center">HOPE YOU AND YOUR LOVED ONES HAPPY</h1>
+<h1 align="center">Seasoned Mobile App Developer (Android & iOS) - Web App Developer</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :technologist: &nbsp;About Me :
@@ -10,7 +10,7 @@
 I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8 years of web & mobile, full stack, Blockchain experience specializing in React/Next.js, Vue.js, React Native/Flutter, Node.js/Nest.js, Spring Boot/RubyonRails/Django, Web3.js/Smart Contract/Ethereum. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. 
 Great Expertise in AWS/Firebase.
 
-- 🔭 Full-stack dev && Web & Mobile dev && Blockchain
+- 🔭 Love Coding and Challenging
 - 🌱 Enjoy solving issues and sharing POV
 - ⚡ Always keeps up-to-date with new technology
 ---
