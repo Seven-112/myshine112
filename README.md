@@ -2,12 +2,12 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <h1 align="center">HELLO my $UN$HINE<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h1 align="center">Blockchain & Mobile App (Android & iOS) - Web App - React Native Developer</h1>
+<h1 align="center">Innovative Software Engineer</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :technologist: &nbsp;About Me :
 
-I am a Seasoned Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8 years of web & mobile, full stack, Blockchain experience specializing in React/Next.js, React Native/Flutter/Swift, Node.js/Nest.js, Rust, Web3.js/Smart Contract/Ethereum/Cosmos/Solana. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. 
+I am a Seasoned Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 8 years of Web & Mobile & Blockchain experience specializing in React/Next.js, React Native/Flutter/Swift, Node.js/Nest.js, Solidity/Rust, Web3.js/Smart Contract/Ethereum/Cosmos/Solana. Experienced working in big corporations, small startups and as a solo developer—planning architecture, setting up the CI/CD, coding applications, and deploying them to a server or an app store. 
 Great Expertise in AWS/Firebase.
 
 - 🔭 Love Coding and Challenging
