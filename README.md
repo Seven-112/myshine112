@@ -86,6 +86,7 @@ Great Expertise in AWS/Firebase.
   ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
+  ![Tether](https://img.shields.io/badge/Solana-040404?style=for-the-badge&logo=Solana&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
